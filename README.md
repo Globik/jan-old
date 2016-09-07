@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Janus WebRTC Gateway
 ====================
 
@@ -355,3 +356,7 @@ will be available.
 Any thought, feedback or (hopefully not!) insult is welcome!
 
 Developed by [@meetecho](https://github.com/meetecho)
+=======
+# jan-old
+gateway
+>>>>>>> 5b7d430d8a4434e0d5f39bd5003e57c405f4e79e
